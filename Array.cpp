@@ -4,7 +4,7 @@ using namespace std;
 class Array{
 	private:
 		int size;
-        int arr;
+        int *arr;
 		
 	public:
 		Array(int s){
