@@ -1,2 +1,2 @@
 # CPP
-Question related to cpp programming
+CPP practicals program codes.
